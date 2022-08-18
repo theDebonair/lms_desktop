@@ -43,6 +43,8 @@
           "name": "@electron-forge/maker-squirrel",
           "config": {
             "name": "LMS",
+            "icon": "icon.ico",
+            "iconUrl": "icon.ico",
             "setupIcon": "icon.ico"      
           }
         },
